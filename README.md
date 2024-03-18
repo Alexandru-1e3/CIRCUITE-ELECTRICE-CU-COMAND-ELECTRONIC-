@@ -10,7 +10,7 @@ Partea electrica, se vizeaza un panou electric constituit din:
 separatoare - pentru protectia la supratensiune; siguranta diferentiala RCBO pentru protectia
 persoanelor la curenti reziduali; sigurante automate RCB pentru protectia la supracurent si scurt
 circuit a circuitului; o priza de panou pentru alimentarea circuitului de comanda. 
-Partea de comanda se constituie din o placa de relee, si un placuta de dezvoltare cu microcontroller
+Partea de comanda se constituie din o placa de relee, si o placuta de dezvoltare cu microcontroller
 Arduino UNO. Placa de relee este conectata in configuratie "cap scara" cu fiecare din consumatorii 
 din circuit. Placuta se conecteaza prin bluetooh la un telefon cu aplicatia specifica si detine 
 configuratia prezentata in documentatie.
